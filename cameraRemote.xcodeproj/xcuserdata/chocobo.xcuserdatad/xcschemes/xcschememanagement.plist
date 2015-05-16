@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>cameraRemote WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>cameraRemote.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>BAA20C251B06C3E600B7AD94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BAA20C441B06C6B200B7AD94</key>
 		<dict>
 			<key>primary</key>
 			<true/>
